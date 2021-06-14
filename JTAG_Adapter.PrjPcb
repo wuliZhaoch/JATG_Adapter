@@ -74,6 +74,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IEUTXKVT
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for JTAG_Adapter\Design Rule Check - JTAG_Adapter.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
